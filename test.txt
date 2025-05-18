@@ -1,0 +1,23 @@
+python visualize_network.py 01_small_net.json DV
+python visualize_network.py 01_small_net.json LS
+correct
+
+python visualize_network.py 02_small_net_events.json DV
+python visualize_network.py 02_small_net_events.json LS
+correct
+
+python visualize_network.py 03_pg244_net.json DV
+python visualize_network.py 03_pg244_net.json LS
+correct
+
+python visualize_network.py 04_pg244_net_events.json DV
+python visualize_network.py 04_pg244_net_events.json LS
+correct
+
+python visualize_network.py 05_pg242_net.json DV
+python visualize_network.py 05_pg242_net.json LS
+correct
+
+python visualize_network.py 06_pg242_net_events.json DV
+python visualize_network.py 06_pg242_net_events.json LS
+correct
